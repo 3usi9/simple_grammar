@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/bi/Code/simple_grammar/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/usr/local/Cellar/antlr4-cpp-runtime/4.9.2/include/antlr4-runtime -I/Users/bi/Code/simple_grammar/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/simple_parser.dir/src/SimpleLexer.cpp.o -c /Users/bi/Code/simple_grammar/src/SimpleLexer.cpp",
+  "file": "/Users/bi/Code/simple_grammar/src/SimpleLexer.cpp"
+},
+{
+  "directory": "/Users/bi/Code/simple_grammar/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/usr/local/Cellar/antlr4-cpp-runtime/4.9.2/include/antlr4-runtime -I/Users/bi/Code/simple_grammar/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/simple_parser.dir/src/SimpleParser.cpp.o -c /Users/bi/Code/simple_grammar/src/SimpleParser.cpp",
+  "file": "/Users/bi/Code/simple_grammar/src/SimpleParser.cpp"
+},
+{
+  "directory": "/Users/bi/Code/simple_grammar/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/usr/local/Cellar/antlr4-cpp-runtime/4.9.2/include/antlr4-runtime -I/Users/bi/Code/simple_grammar/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/simple_parser.dir/src/SimpleParserBaseVisitor.cpp.o -c /Users/bi/Code/simple_grammar/src/SimpleParserBaseVisitor.cpp",
+  "file": "/Users/bi/Code/simple_grammar/src/SimpleParserBaseVisitor.cpp"
+},
+{
+  "directory": "/Users/bi/Code/simple_grammar/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/usr/local/Cellar/antlr4-cpp-runtime/4.9.2/include/antlr4-runtime -I/Users/bi/Code/simple_grammar/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/simple_parser.dir/src/SimpleParserVisitor.cpp.o -c /Users/bi/Code/simple_grammar/src/SimpleParserVisitor.cpp",
+  "file": "/Users/bi/Code/simple_grammar/src/SimpleParserVisitor.cpp"
+},
+{
+  "directory": "/Users/bi/Code/simple_grammar/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/usr/local/Cellar/antlr4-cpp-runtime/4.9.2/include/antlr4-runtime -I/Users/bi/Code/simple_grammar/src -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14 -o CMakeFiles/simple_parser.dir/src/main.cpp.o -c /Users/bi/Code/simple_grammar/src/main.cpp",
+  "file": "/Users/bi/Code/simple_grammar/src/main.cpp"
+}
+]

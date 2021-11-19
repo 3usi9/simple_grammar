@@ -1,0 +1,12 @@
+ADD=1
+SUB=2
+DECIMAL_LITERAL=3
+LPAREN=4
+RPAREN=5
+SEMI=6
+COMMA=7
+WS=8
+'('=4
+')'=5
+';'=6
+','=7
